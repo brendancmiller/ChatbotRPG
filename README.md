@@ -1,0 +1,1 @@
+Variation of the 5th Edition SRD with more streamlined rules for use with a chatbot. Original SRD text obtained from from 5thSRD.org
