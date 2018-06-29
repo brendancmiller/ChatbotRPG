@@ -1,10 +1,5 @@
 # Races
-* [Dragonborn](/races/dragonborn)
 * [Dwarf](/races/dwarf)
 * [Elf](/races/elf)
-* [Gnome](/races/gnome)
-* [Half-Elf](/races/half-elf)
 * [Halfling](/races/halfling)
-* [Half-Orc](/races/half-orc)
 * [Human](/races/human)
-* [Tiefling](/races/tiefling)
